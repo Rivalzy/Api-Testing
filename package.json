@@ -1,7 +1,7 @@
 {
   "name": "api_beta",
   "version": "1.0.0",
-  "description": "ini api percobaan saya",
+  "description": "ini api percobaan saya dengan menggunakan express js",
   "main": "src/index.js",
   "scripts": {
     "start": "nodemon src/index.js",
