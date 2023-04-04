@@ -1,0 +1,20 @@
+{
+  "name": "api_beta",
+  "version": "1.0.0",
+  "description": "ini api percobaan saya",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "build": "node src/index.js"
+  },
+  "author": "Muhammad Rival Dwisatrio",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "latest"
+  },
+  "dependencies": {
+    "express": "latest",
+    "cors": "latest",
+    "dotenv": "latest"
+  }
+}
